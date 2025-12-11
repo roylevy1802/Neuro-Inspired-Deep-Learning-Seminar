@@ -1,4 +1,5 @@
-*Abstract:*
+**Abstract:**
+
 How can machines learn as efficiently as humans and animals?
 
 How can we build machine architectures capable of complex reasoning, planning and problem solving, common-sense, understanding of the physical world, and capable of autonomous intelligence? 
